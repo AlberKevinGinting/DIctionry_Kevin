@@ -2,6 +2,9 @@ meme_dict = {
             "CRINGE": "Sesuatu yang sangat aneh atau memalukan",
             "LOL": "Tanggapan umum terhadap sesuatu yang lucu",
             "OTW": "Saat seseorang di dalam perjalanan kesesuatu tempat",
+            "GG": "Good Game",
+            "GGWP": "Good Game Well Played",
+            "NT": "Nice try"
             }
 word = input("Ketik kata yang tidak Kamu mengerti (gunakan huruf kapital semua!): ")
 if word in meme_dict.keys():
